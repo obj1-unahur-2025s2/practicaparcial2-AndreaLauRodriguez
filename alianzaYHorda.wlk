@@ -74,6 +74,10 @@ class Mascota{
 
 }
 
+
+  class Ejercito{
+    
+  }
 object laHorda{
    const integrantesHorda = []
    method agregarIntegrante(unHorco){
