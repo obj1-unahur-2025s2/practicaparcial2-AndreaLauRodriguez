@@ -1,5 +1,9 @@
 
 class Personaje{
+
+
+
+  
  var property fuerza
   var property inteligencia
   var property rol
